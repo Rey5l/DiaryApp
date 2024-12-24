@@ -30,6 +30,7 @@ import com.reysl.diaryapp.R
 import com.reysl.diaryapp.model.Task
 import com.reysl.diaryapp.ui.theme.DiaryAppTheme
 import com.reysl.diaryapp.view.components.CalendarView
+import com.reysl.diaryapp.view.components.TaskTable
 import com.reysl.diaryapp.viewmodel.TaskViewModel
 import java.time.Instant
 import java.time.LocalDate
