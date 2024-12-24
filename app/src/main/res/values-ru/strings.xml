@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ежедневник</string>
+    <string name="selected_date">Выбранная дата: %1$s</string>
+    <string name="hide_tasks">Скрыть задачи</string>
+    <string name="show_tasks">Показать задачи</string>
+    <string name="time">Время: %1$s - %2$s</string>
+    <string name="add_task_success">Задача успешно добавлена</string>
+    <string name="error">Ошибка: %1$s</string>
+    <string name="task_name">Название задачи</string>
+    <string name="description">Описание</string>
+    <string name="date">Дата: %1$s</string>
+    <string name="select_date">Выберите дату</string>
+    <string name="start_time">Время начала</string>
+    <string name="end_time">Время окончания</string>
+    <string name="invalid_time_format">Неверный формат времени</string>
+    <string name="time_error_toast">Время окончания должно быть позже времени начала.</string>
+    <string name="add_task">Добавить задачу</string>
+</resources>
