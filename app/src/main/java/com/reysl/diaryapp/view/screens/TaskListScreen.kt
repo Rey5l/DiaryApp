@@ -106,7 +106,7 @@ fun TaskItem(task: Task, viewModel: TaskViewModel) {
             contentAlignment = Alignment.TopEnd
         ) {
             IconButton(onClick = {
-
+                viewModel.deleteTask(task)
             }) {
                 Icon(imageVector = Icons.Default.Delete, contentDescription = "Delete")
             }
