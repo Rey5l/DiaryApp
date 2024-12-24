@@ -1,4 +1,4 @@
-package com.reysl.diaryapp.view.screens
+package com.reysl.diaryapp.view.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
